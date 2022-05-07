@@ -82,6 +82,7 @@ def voterid(age):
         print("you are greater than 10")
     else:
         print("you are not eligible")
+    print("NO")
 
 global temp
 temp=0.00
